@@ -1,2 +1,2 @@
 # ATH-lab-Explorer
-Privides insights into ATH LAB INNOVATION 
+Provides insights into ATH LAB INNOVATION 
